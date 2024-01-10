@@ -26,7 +26,6 @@ _________________
 _________________
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=SleepingRian&show_icons=true&theme=dark#gh-dark-mode-only)
-![My Pinned Post](https://github-readme-stats.vercel.app/api/pin?username=SleepingRian&repo=SleepingRian&theme=dark#gh-dark-mode-only)
 
 <!--
 **SleepingRian/SleepingRian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
